@@ -1,0 +1,17 @@
+{
+    "0.005": {
+        "ASR_false_reject": 0.69,
+        "mean_sim_before": 0.4903067624072234,
+        "mean_sim_after": 0.2819235896412283
+    },
+    "0.01": {
+        "ASR_false_reject": 0.88,
+        "mean_sim_before": 0.4903067624072234,
+        "mean_sim_after": 0.19268545754409086
+    },
+    "0.02": {
+        "ASR_false_reject": 0.96,
+        "mean_sim_before": 0.4903067624072234,
+        "mean_sim_after": 0.11934928892801205
+    }
+}

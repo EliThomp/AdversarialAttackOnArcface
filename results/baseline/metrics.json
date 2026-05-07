@@ -1,0 +1,8 @@
+{
+    "threshold": 0.3,
+    "test_accuracy": 0.819,
+    "FAR": 0.238,
+    "FRR": 0.124,
+    "num_train_pairs": 2200,
+    "num_test_pairs": 1000
+}
